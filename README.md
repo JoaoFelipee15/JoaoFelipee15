@@ -1,0 +1,3 @@
+- 👋 Olá, meu nome é **João Felipe**
+- 🌱 Estou aprendendo à fazer jogos no scratch e javascript pelas aulas de **pensamento computacional**
+- 👀 Tenho vontade de aprender à **programar sites**  
